@@ -2,7 +2,7 @@
   // Format & lint every save
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
+    "source.fixAll.eslint": "explicit"
   },
   // Use the workspace TypeScript version (the one you’ll install in node_modules)
   "typescript.tsdk": "node_modules/typescript/lib",
